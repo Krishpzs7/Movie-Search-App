@@ -1,0 +1,10 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="dark_blue">#1E2A38</color>
+    <color name="white">#FFFFFF</color>
+    <color name="coral">#FF6F61</color>
+
+    <!-- Secondary Colors -->
+    <color name="light_gray">#F5F5F5</color>
+    <color name="medium_gray">#B0B0B0</color>
+</resources>

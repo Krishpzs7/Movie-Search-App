@@ -1,0 +1,17 @@
+<resources>
+    <!-- Common Strings -->
+    <string name="app_name">Film Finder</string>
+    <string name="back">Back</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+    <string name="view_favorites">View Favorites</string>
+    <string name="no_favorites_found">No favorite movies found</string>
+    <string name="movie_added">Movie added to favorites!</string>
+    <string name="failed_to_add_movie">Failed to add movie to favorites.</string>
+    <string name="search_hint">Search movies...</string>
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+</resources>
